@@ -1,0 +1,17 @@
+Algoritimo hora de acorda
+
+1- Toca o dispertador;
+2- Desligo o dispertador;
+3- Pego o celular;
+4- vejo o dia da semana;
+5 -Se for sexta feira;
+     - Estendo para pegar o dispertador;
+     - Acrescento 15 minutos de soneca;
+     - Volto a dormir; 
+	 - tocou o dispertador; 
+     - desligo o dispertador;
+     - levanto da cama	 
+6- Se não for Sexta - feira;
+     - Estendo para desligar o dispertador;
+	 - Espero 2 minutos;
+	 - levanto da cama;
