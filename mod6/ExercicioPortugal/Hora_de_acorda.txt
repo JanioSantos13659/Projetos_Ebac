@@ -1,4 +1,4 @@
-Algoritimo hora de acorda
+Algoritmo - hora de acorda
 
 1- Toca o dispertador;
 2- Desligo o dispertador;
