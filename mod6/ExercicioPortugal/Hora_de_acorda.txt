@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Algoritmo - hora de acorda
+=======
+Algoritmo hora de acorda
+>>>>>>> b4b32be7757511282116485cbbe46140239e47e2
 
+INICIO
 1- Toca o dispertador;
 2- Desligo o dispertador;
 3- Pego o celular;
@@ -8,10 +13,11 @@ Algoritmo - hora de acorda
      - Estendo para pegar o dispertador;
      - Acrescento 15 minutos de soneca;
      - Volto a dormir; 
-	 - tocou o dispertador; 
+     - tocou o dispertador; 
      - desligo o dispertador;
      - levanto da cama	 
 6- Se não for Sexta - feira;
      - Estendo para desligar o dispertador;
-	 - Espero 2 minutos;
-	 - levanto da cama;
+     - Espero 2 minutos;
+     - levanto da cama;
+FIM
